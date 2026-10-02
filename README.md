@@ -142,7 +142,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/telegram-support-bot">
-          <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="16" height="16" align="center" />&nbsp;<b>telegram&#8209;support&#8209;bot</b>
+          <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="16" height="16" align="texttop" />&nbsp;<b>telegram&#8209;support&#8209;bot</b>
         </a>
       </td>
       <td align="center">
@@ -153,7 +153,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/YoPayment">
-          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/yookassa.svg" width="18" height="15" align="center" />&nbsp;<b>YoPayment</b>
+          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/yookassa.svg" width="18" height="15" align="texttop" />&nbsp;<b>YoPayment</b>
         </a>
       </td>
       <td align="center">
@@ -164,7 +164,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/NVanish">
-          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/ghost.svg" width="16" height="16" align="center" />&nbsp;<b>NVanish</b>
+          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/ghost.svg" width="16" height="16" align="texttop" />&nbsp;<b>NVanish</b>
         </a>
       </td>
       <td align="center">
@@ -175,7 +175,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/NPromo">
-          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/promo.svg" width="16" height="16" align="center" />&nbsp;<b>NPromo</b>
+          <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/promo.svg" width="16" height="16" align="texttop" />&nbsp;<b>NPromo</b>
         </a>
       </td>
       <td align="center">
@@ -186,7 +186,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/Installer">
-          <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16" align="center" />&nbsp;<b>Installer</b>
+          <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16" align="texttop" />&nbsp;<b>Installer</b>
         </a>
       </td>
       <td align="center">
@@ -197,7 +197,7 @@ specialization:
     <tr>
       <td>
         <a href="https://github.com/noloverme/mcadder">
-          <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" align="center" />&nbsp;<b>mcadder</b>
+          <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" align="texttop" />&nbsp;<b>mcadder</b>
         </a>
       </td>
       <td align="center">
@@ -226,25 +226,25 @@ specialization:
   <tbody>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/auth0/A78BFA" width="16" height="16" align="center" />&nbsp;<b>Security Core & Systems</b>
+        <img src="https://cdn.simpleicons.org/auth0/A78BFA" width="16" height="16" align="texttop" />&nbsp;<b>Security Core & Systems</b>
       </td>
       <td>Brute-force resistant authentication, cross-server dynamic lobbies, clan infrastructure, staff tools, and packet-level anti-exploits.</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="16" height="16" align="center" />&nbsp;<b>Hosting Infrastructure Bots</b>
+        <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="16" height="16" align="texttop" />&nbsp;<b>Hosting Infrastructure Bots</b>
       </td>
       <td>Automated Telegram bots for real-time node monitoring, quick console access, log parsing, and emergency restarts.</td>
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/yookassa.svg" width="18" height="15" align="center" />&nbsp;<b>Billing & SaaS Panels</b>
+        <img src="https://raw.githubusercontent.com/noloverme/noloverme/main/assets/yookassa.svg" width="18" height="15" align="texttop" />&nbsp;<b>Billing & SaaS Panels</b>
       </td>
       <td>User billing portals, YooKassa transaction webhooks, automated digital fulfillment, and interactive web apps.</td>
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16" align="center" />&nbsp;<b>High-Performance Services</b>
+        <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16" align="texttop" />&nbsp;<b>High-Performance Services</b>
       </td>
       <td>High-throughput Go & Python data decoders, request filtering services, and traffic validation layers.</td>
     </tr>
