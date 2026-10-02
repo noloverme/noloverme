@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://t.me/noloverme">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Backend+%26+Core+Developer;Minecraft+Architecture+%26+NMS;Telegram+Bots+%26+Cloud+Automation;Billing+Panels+%26+Payment+Gateways;«He+doesn't+love+anyone+%F0%9F%92%94»" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Backend+and+Core+Developer;Minecraft+Architecture+and+NMS;Telegram+Bots+and+Automation;Billing+Panels+and+Payment+Systems;He+doesnt+love+anyone" alt="Typing SVG" />
 </a>
 
 <br/>
